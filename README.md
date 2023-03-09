@@ -1,1 +1,1 @@
-# Design-Made-Easy-with-Inkscape-
+# Design-Made-Easy-with-Inkscape

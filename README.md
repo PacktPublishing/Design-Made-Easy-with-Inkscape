@@ -48,3 +48,8 @@ It was in Leeds that he attended his first Inkscape Hackfest and subsequently jo
 He has produced videos and teaching materials for Inkscape for the University of Exeter and helped with the development of new Inkscape features over the years. He loves to help others get to grips with powerful FOSS in the name of creative freedom.<br>
 You can check out his latest design portfolio here: https://crogersmedia.com/crogers_portfolio.pdf.
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801078771">https://packt.link/free-ebook/9781801078771 </a> </p>
